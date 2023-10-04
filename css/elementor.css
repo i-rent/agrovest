@@ -94,7 +94,7 @@ h1.entry-title {
   .elementor-element.elementor-element-02500f6
   .elementor-heading-title {
   color: var(--e-global-color-astglobalcolor5);
-  font-size: 50px;
+  font-size: 40px;
   letter-spacing: -3px;
 }
 
@@ -106,7 +106,8 @@ h1.entry-title {
   .elementor-element.elementor-element-0708f7f
   .elementor-heading-title {
   color: var(--e-global-color-astglobalcolor5);
-  font-size: 117px;
+  font-size: 70px;
+  line-height: 110px;
   letter-spacing: -3px;
 }
 
@@ -139,7 +140,7 @@ h1.entry-title {
 .elementor-11
   .elementor-element.elementor-element-b78c0f0
   > .elementor-widget-container {
-  margin: 10px 0px 0px 0px;
+  margin: 0px !important;
 }
 
 .elementor-11 .elementor-element.elementor-element-7701125 {
@@ -565,7 +566,7 @@ h1.entry-title {
   .elementor-11
     .elementor-element.elementor-element-b78c0f0
     > .elementor-widget-container {
-    margin: 10px 0px 0px 0px;
+    margin: 0 0px 0px 0px;
   }
 
   .elementor-11 .elementor-element.elementor-element-7701125 {
@@ -706,7 +707,7 @@ h1.entry-title {
   .elementor-11
     .elementor-element.elementor-element-e487c72
     > .elementor-widget-container {
-    margin: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
   }
 }
 
@@ -724,13 +725,16 @@ h1.entry-title {
   .elementor-11
     .elementor-element.elementor-element-02500f6
     .elementor-heading-title {
-    font-size: 44px;
+    font-size: 24px;
+    line-height: 60px;
+    letter-spacing: normal;
   }
 
   .elementor-11
     .elementor-element.elementor-element-0708f7f
     .elementor-heading-title {
-    font-size: 72px;
+    font-size: 36px;
+    line-height: 50px;
   }
 
   .elementor-11
